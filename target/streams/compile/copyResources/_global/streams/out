@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\conf\application.conf,C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\conf\logback.xml,C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\conf\messages,C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\target\scala-2.13\classes\messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\conf\routes,C:\Users\jordan\Desktop\play-samples-play-scala-hello-world-tutorial\target\scala-2.13\classes\routes)[0m
